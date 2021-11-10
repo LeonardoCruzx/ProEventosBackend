@@ -11,7 +11,6 @@ G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Micros
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csprojAssemblyReference.cache
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
@@ -55,3 +54,4 @@ G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtim
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\Projects\Curso.Net\proeventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
